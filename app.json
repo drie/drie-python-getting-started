@@ -1,0 +1,7 @@
+{
+  "name": "Start on drie: Python",
+  "description": "A barebones Python app, which can easily be deployed to drie.",
+  "image": "heroku/python",
+  "repository": "https://github.com/drie/drie-python-getting-started",
+  "keywords": ["python", "django" ]
+}
