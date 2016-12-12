@@ -13,7 +13,8 @@ $ git push drie
 ```
 or
 
-[Deploy to drie](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-python-getting-started.git)
+[![Deploy to drie](http://master.driefiles.app.push.drieapp.co/images/deploy-drie-app.png)](https://deploy-button.push.drie.co/deploy)
+
 
 ## Documentation
 
